@@ -20,7 +20,7 @@
 			echo $url; ?>">
 		<?php echo $item->title; ?></a>
 	<?php } else { ?>
-		<?php echo $item->title ; ?>
+		<?php echo $item->title; ?>
 	<?php } ?>
 	</h<?php echo $params->get('item_heading', 1);?>>
 <?php } ?>
