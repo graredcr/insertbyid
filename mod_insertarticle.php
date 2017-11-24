@@ -7,7 +7,9 @@
 # @license - http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
 # Websites: http://www.yourawesomesite.com
 # Technical Support:  Forum - http://www.percha.com/
--------------------------------------------------------------------------*/
+-------------------------------------------------------------------------
+neeee
+*/
 //no direct access
 defined('_JEXEC') or die('Direct Access to this location is not allowed.');
 //this is intializer.php
