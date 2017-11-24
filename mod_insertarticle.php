@@ -8,10 +8,14 @@
 # Websites: http://www.yourawesomesite.com
 # Technical Support:  Forum - http://www.percha.com/
 -------------------------------------------------------------------------
+<<<<<<< HEAD
 
 neeee 2222
 */
 
+=======
+new popo*/
+>>>>>>> All
 //no direct access
 defined('_JEXEC') or die('Direct Access to this location is not allowed.');
 //this is intializer.php
