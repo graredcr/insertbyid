@@ -7,7 +7,8 @@
 # @license - http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
 # Websites: http://www.yourawesomesite.com
 # Technical Support:  Forum - http://www.percha.com/
--------------------------------------------------------------------------*/
+-------------------------------------------------------------------------
+new*/
 //no direct access
 defined('_JEXEC') or die('Direct Access to this location is not allowed.');
 //this is intializer.php
@@ -19,7 +20,6 @@ jimport( 'joomla.html.parameter' );
 jimport( 'joomla.html.registry' );
 jimport( 'joomla.version' );
 
-echo "ssss";
 
 // get a parameter from the module's configuration
 
