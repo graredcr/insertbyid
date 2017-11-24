@@ -8,8 +8,7 @@
 # Websites: http://www.yourawesomesite.com
 # Technical Support:  Forum - http://www.percha.com/
 -------------------------------------------------------------------------
-neeee
-*/
+new popo*/
 //no direct access
 defined('_JEXEC') or die('Direct Access to this location is not allowed.');
 //this is intializer.php
@@ -20,6 +19,7 @@ require_once(dirname(__FILE__).DS.'helper.php');
 jimport( 'joomla.html.parameter' );
 jimport( 'joomla.html.registry' );
 jimport( 'joomla.version' );
+
 
 // get a parameter from the module's configuration
 
