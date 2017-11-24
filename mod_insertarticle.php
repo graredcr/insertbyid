@@ -10,6 +10,10 @@
 -------------------------------------------------------------------------
 <<<<<<< HEAD
 
+//$query = "SHOW DATABASES" or die("Error in the consult.." . mysqli_error($enlace));
+//$query = "SHOW DATABASES" or die("Error in the consult.." . mysqli_error($enlace));
+//$query = "SHOW DATABASES" or die("Error in the consult.." . mysqli_error($enlace));
+//$query = "SHOW DATABASES" or die("Error in the consult.." . mysqli_error($enlace));
 neeee 2222
 */
 
